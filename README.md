@@ -1,1 +1,1 @@
-#Simple project for learning React Native basics
+# Simple project for learning React Native basics
